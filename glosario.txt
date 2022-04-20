@@ -1,0 +1,77 @@
+                                                                   Lenguaje informático moderno 
+
+Dennis Ritchie: Dennis Ritchie fue un reconocido científico informático estadounidense. Es mejor recordado por crear el lenguaje de programación C y sus contribuciones al desarrollo del sistema operativo UNIX.
+
+Bjarne Stroustrup: Es un científico de la computación y catedrático de Ciencias de la Computación en la Universidad A&M de Texas. Es reconocido principalmente por el desarrollo del lenguaje de programación C++.
+
+Paradigmas: Un paradigma de programación es una manera o estilo de programación de software. Existen diferentes formas de diseñar un lenguaje de programación y varios modos de trabajar para obtener los resultados que necesitan los programadores.  Se trata de un conjunto de métodos sistemáticos aplicables en todos los niveles del diseño de programas para resolver problemas computacionales.
+
+C + +: Es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese manipular objetos. A pesar de ser un lenguaje con muchos años, su gran potencia lo convierte en uno de los lenguajes de programación más demandados en 2019.
+
+LISP: Es un lenguaje de programación que fue diseñado para una fácil manipulación de cadenas de datos. Es uno de los lenguajes de programación más antiguos todavía en uso.
+
+Haskell: Es un lenguaje de programación estandarizado multi-propósito, funcionalmente puro, con evaluación no estricta y memorizada, y fuerte tipificación estática. Su nombre se debe al lógico estadounidense Haskell Curry, debido a su aportación al cálculo lambda, el cual tiene gran influencia en el lenguaje.
+
+IBM: International Business Machines Corporation es una reconocida empresa multinacional estadounidense de tecnología y consultoría con sede en Armonk, Nueva York.
+
+Friedrich Hermann Hund: 
+
+Tunelización cuántica: El principio de tal microscopio se basa en el efecto de tunelización cuántica. Este describe cómo los electrones tienen cierta probabilidad de atravesar una barrera que, según la física clásica, no podrían normalmente atravesar.
+
+Kotlin: Kotlin es un lenguaje de programación de tipo estático que corre sobre la máquina virtual de Java y que también puede ser compilado a código fuente de JavaScript. Es desarrollado principalmente por JetBrains en sus oficinas de San Petersburgo.
+
+Computación cuántica: Esta rama de la informática se basa en los principios de la superposición de la materia y el entrelazamiento cuántico para desarrollar una computación distinta a la tradicional. En teoría, sería capaz de almacenar muchísimos más estados por unidad de información y operar con algoritmos mucho más eficientes a nivel numérico, como el de Shor o el temple cuántico.
+
+Q#: Es el lenguaje de programación de código abierto de Microsoft para desarrollar y ejecutar algoritmos cuánticos. Forma parte del kit de desarrollo de Quantum (QDK), que ofrece un conjunto de herramientas que le ayudarán en el proceso de desarrollo de software cuántico.
+
+Haiku: Un haiku es un breve poema de origen japonés que se inspira en la naturaleza, especialmente en el cambio de las estaciones. El otoño comienza. Cada día un trabajo: dibujar flores. Masaoka Shiki El mundo cabe en diecisiete sílabas: tú en esta choza.
+
+F#: Es un lenguaje fuertemente tipado que utiliza inferencia de tipos. Como resultado, los tipos no necesitan estar declarados explícitamente por el programador; estos serán deducidos por el compilador durante el proceso de compilación. Sin embargo, F# también permite la declaración explícita de tipos de datos.
+
+Blender: Blender es un programa informático multiplataforma, dedicado especialmente al modelado, iluminación, renderizado, la animación y creación de gráficos tridimensionales. También de composición digital utilizando la técnica procesal de nodos, edición de vídeo, escultura y pintura digital. 
+
+3D Studio Max: Autodesk 3ds Max es un programa de creación de gráficos y animación 3D desarrollado por Autodesk, en concreto la división Autodesk Media & Entertainment. Creado inicialmente por el Grupo Yost para Autodesk, salió a la venta por primera vez en 1990 para DOS.
+
+Pseudo 3D: 2.5D, perspectiva de 3/4 y pseudo-3D son los términos que se utilizan para describir ya sea: Proyecciones gráficas en 2D y técnicas que hacen que una serie de imágenes o escenas parezcan ser de tres dimensiones, cuando en realidad no lo son.
+
+Sprites: Los sprites fueron popularizados por Jay Miner. Se trata de un tipo de mapa de bits dibujados en la pantalla de ordenador por hardware gráfico especializado sin cálculos adicionales de la CPU.
+
+3dfx: Interactive fue una compañía especializada en la manufactura de procesadores gráficos 3D y, más tarde, tarjetas gráficas para uso en PC. Fue la gran dominante en la época inicial de las tarjetas aceleradoras 3D, a finales de los años 1990, especialmente en los años 1997 y 1998.
+
+NVidia: Es una empresa multinacional especializada en el desarrollo de unidades de procesamiento gráfico y tecnologías de circuitos integrados para estaciones de trabajo, ordenadores personales y dispositivos móviles.
+
+Matrox: Es una empresa canadiense que produce chips gráficos y componentes para PC. Fue fundada por Lorne Trottier and Branko Matic. El nombre viene del apellido de los fundadores: "Ma" de Matic y "Tro" de Trottier combinado con la 'x' de excelencia.
+
+ATI: Fue una de las empresas de hardware que diseñaba GPUs, fue comprada por AMD en el año 2006 pero mantuvo su nombre para algunos productos hasta la salida de la serie Radeon HD 6000 en el 2010.
+
+John Carmack: John D. Carmack II es un programador de juegos estadounidense y cofundador de id Software. Fue el principal programador de juegos de id, tales como Commander Keen, Wolfenstein 3D, Doom, Quake, Rage y sus secuelas.
+
+RenderWare: Es una API 3D y un Motor de renderizado utilizado en videojuegos, y algunos navegadores VRML. Su creación se originó en la era de renderizado gráfico en computadoras antes de la aparición de los GPUs, compitiendo con otras librerías como BRender y Reality Lab.
+
+Gamebryo: Es un motor de videojuego, originalmente propiedad de Numerical Design Limited, y es el sucesor del motor NetInmerse, también de NDL. Desde la creación de Gamebryo, NDL se fusionó con Emergent Game Technologies. La nueva empresa es conocida como "Emergent Game Technologies".
+
+GameMaker: Es una plataforma basada en un lenguaje de programación interpretado y un kit de desarrollo de software para desarrollar videojuegos, creada originalmente por el profesor Mark Overmars en el lenguaje de programación Delphi, y orientada a usuarios novatos o con pocas nociones de programación.
+
+Unreal Engine: Es uno de los motores de juego más populares y usados del momento, perteneciente a la compañía Epic Games. Su funcionamiento se basa en código C++ y su primera versión se creó en 1998, aunque hasta 2015 no estuvo disponible de forma gratuita y pública.
+
+Vectores: En matemática y física, un vector​ es un ente matemático como la recta o el plano. Un vector se representa mediante un segmento de recta, orientado dentro del espacio euclidiano tridimensional. El vector tiene 3 elementos: módulo, dirección y sentido.​
+
+Software: Se conoce como software o soporte lógico al sistema formal de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hace posible la realización de tareas específicas, en contraposición a los componentes físicos que son llamados hardware.
+
+API: La interfaz de programación de aplicaciones, conocida también por la sigla API, en inglés, application programming interface, ​ es un conjunto de subrutinas, funciones y procedimientos que ofrece cierta biblioteca para ser utilizada por otro software como una capa de abstracción.​
+
+JavaScript: Es un lenguaje de programación ligero, interpretado  con funciones de primera clase. Si bien es más conocido como un lenguaje de scripting (secuencias de comandos) para páginas web, y es usado en muchos entornos fuera del navegador, tal como Node.js, Apache CouchDB y Adobe Acrobat, JavaScript es un lenguaje de programación basada en prototipos, multiparadigma, de un solo hilo, dinámico, con soporte para programación orientada a objetos, imperativa y declarativa.
+
+Boo: Boo es un lenguaje de programación orientado a objetos, de tipos estáticos para la Common Language Infrastructure con una sintaxis inspirada en Python y un énfasis en la extensibilidad del lenguaje y su compilador.
+
+.NET: Es un framework de Microsoft que hace un énfasis en la transparencia de redes, con independencia de plataforma de hardware y que permite un rápido desarrollo de aplicaciones.
+
+.NET Core: Es la plataforma de desarrollo de Microsoft más moderna, de código fuente abierto, multiplataforma y de alto rendimiento para la creación de todo tipo de aplicaciones.
+
+Fue liberada en el año 2016, y es el resultado de múltiples esfuerzos para hacer más ágil el desarrollo en .NET puesto que el .NET Framework, depende totalmente del sistema operativo Windows.
+
+.NET Standar: NET Standard, es simplemente es una fusión entre la biblioteca de clases base y la biblioteca de clases portable. . Net Standard ha unificado las bibliotecas de clase base de las diferentes plataformas de . NET, y ha allanado la forma de compartir bibliotecas y también ha centralizado la evolución.
+
+.NET Framework: Es un entorno de ejecución runtime que administra aplicaciones cuyo destino es .NET Framework. Incorpora Common Language Runtime, que proporciona la administración de la memoria y otros servicios del sistema, y una biblioteca de clases completa, que permite a los programadores aprovechar el código estable y fiable de todas las áreas principales del desarrollo de aplicaciones.
+
+OSX: Mac OS X es un sistema operativo de computadora que usa una interfaz gráfica, basada en Unix. Es desarrollado y comercializado por Apple, una de las compañías más populares del mundo. Mac OS X está diseñado sólo para los dispositivos y computadoras Macintosh. Es el segundo sistema operativo más utilizado después de Microsoft Windows, y generalmente se ejecuta en los ordenadores portátiles, las computadoras de casa y los ordenadores de sobremesa de Apple.
